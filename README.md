@@ -30,8 +30,8 @@ The results of these techniques were then compared. Additionally a few natural l
 
 The following table summarizes the results achieved by the best models from each model category.
 
-| Method              | Accuracy  | Precision | Recall   |
-| ------------------- | --------- | --------- | -------- |
-| Random Forests      | --------- | ------    | -------- |
-| Logistic Regression | 0.870507  | 0.871464  | 0.870392 |
-| Deep Learning       | 0.890919  | 0.891543  | 0.891011 |
+| Method              | Accuracy | Precision | Recall   |
+| ------------------- | -------- | --------- | -------- |
+| Random Forests      | 0.854074 | 0.854281  | 0.854085 |
+| Logistic Regression | 0.870507 | 0.871464  | 0.870392 |
+| Deep Learning       | 0.890919 | 0.891543  | 0.891011 |
